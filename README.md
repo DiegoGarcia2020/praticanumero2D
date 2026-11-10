@@ -31,12 +31,4 @@ Aplicación Android desarrollada en **Java** que muestra un formulario de **Regi
 - **Iconos:** imágenes PNG ubicadas en `res/drawable` (`user100`, `usuario`, `cedula`, `genero`, `guardar`).
 - **SDK:** mínimo 30 (Android 11), objetivo 37.
 
-## Cómo ejecutar el proyecto
 
-1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/DiegoGarcia2020/praticanumero2D.git
-   ```
-2. Abrir la carpeta en **Android Studio**.
-3. Esperar a que termine la sincronización de Gradle.
-4. Seleccionar un emulador o dispositivo y pulsar **Run ▶**.
