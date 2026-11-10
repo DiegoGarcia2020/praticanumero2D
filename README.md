@@ -2,7 +2,7 @@
 Aplicación Android desarrollada en **Java** que muestra un formulario de **Registro de Usuarios**. La interfaz está construida con `ConstraintLayout` dentro de un `ScrollView` y utiliza componentes de **Material Design 3**.
 
 <div align="center">
-  <img src="captura.png" alt="Pantalla de Registro de Usuarios" width="350"/>
+  <img src="Screenshot_20261109_220350.png" alt="Pantalla de Registro de Usuarios" width="350"/>
 </div>
 
 ## Campos del formulario
